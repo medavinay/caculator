@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="./style.css" rel="stylesheet" type="text/css" >
+
+</head>
+<body>
+   <div id="BG">
+    <div id="overall">
+        <div id="textbox">
+            <p id="answer"></p>
+            <input type="text"  id="txt1" >
+        </div>
+        <div id="fisrtrow">
+            <button id=one onclick="vin1()">1</button>
+            <button id=two onclick="vin2()">2</button>
+            <button id=three onclick="vin3()">3</button>
+    <button id=pluse onclick="vin4()">+</button>
+    
+
+         </div>
+        
+         <div id="second">
+            <button id=four onclick="vin5()">4</button>
+            <button id=five onclick="vin6()">5</button>
+            <button id=six onclick="vin7()">6</button>
+    <button id=sub onclick="vin8()">-</button>
+
+</div>
+
+<div id="third">
+    <button id=seven onclick="vin9()">7</button>
+    <button id=eight onclick="vin10()">8</button>
+    <button id=nine onclick="vin11()">9</button>
+    <button id=mult onclick="vin12()">*</button>
+    
+</div>
+
+<div id="fourth">
+    <button id=clear onclick="vin13()">C</button>
+    <button id=zero onclick="vin14()">0</button>
+    <button id="equal" onclick="vin15()">=</button>
+    <button id=divi  onclick="vin16()">/</button>
+    
+    <p id="anwers">Hi sir glad to trained by</p>
+</div>
+ </div>
+ </div>
+<script>
+    function vin1(){
+let a= document.getElementById("txt1").value+=1;
+
+ 
+    }
+     function vin2(){
+ let b=document.getElementById("txt1").value+=2;
+ 
+ 
+    }
+    function vin3(){
+ document.getElementById("txt1").value+=3;
+ 
+    }
+    function vin4(){
+ document.getElementById("txt1").value+="+";
+    }
+    
+    function vin5(){
+ document.getElementById("txt1").value+=4;
+ 
+    }
+    function vin6(){
+ document.getElementById("txt1").value+=5;
+ 
+    }
+    function vin7(){
+ document.getElementById("txt1").value+=6;
+ 
+    }
+    function vin8(){
+ document.getElementById("txt1").value +="-";
+    }
+    
+    function vin9(){
+ document.getElementById("txt1").value+=7;
+ 
+    }
+    function vin10(){
+ document.getElementById("txt1").value+=8;
+ 
+    }
+    function vin11(){
+ document.getElementById("txt1").value+=9;
+    }
+    
+    function vin12(){
+ document.getElementById("txt1").value+="*";  
+}
+    
+    function vin13(){
+ document.getElementById("txt1").value="";
+ 
+    }
+    function vin14(){
+ document.getElementById("txt1").value+=0;
+ 
+    }
+    function vin15(){
+ document.getElementById("txt1").value=eval(document.getElementById("txt1").value);
+    }
+    function vin8(){
+ document.getElementById("txt1").value+="-";
+    }
+    function vin16(){
+ document.getElementById("txt1").value+="/";
+}
+ 
+// document.getElementById("answer").innerHTML=parseInt(a)*parseInt(b); 
+
+
+</script>
+
+
+</body>
+</html>

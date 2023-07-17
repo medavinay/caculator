@@ -1,0 +1,159 @@
+#BG{
+    background-color: lightgreen;
+      width: 100%100%;
+
+}
+#overall {
+    float: center;
+    width: 55%;
+    margin: 3em 0em -30em 19em;
+    background-color: lightsteelblue;
+    padding: 2em 0em 1em 5em;
+}
+
+
+#txt1 {
+    background-color:lightskyblue;
+    width: 28%;
+    padding: 1em 1em 1em 2em;
+    margin: -1em 0em 0em 1em;
+}
+
+
+#fisrtrow {
+    margin: 1em 0em 0em 3em;
+    padding: 1em 0em 1em 0em
+}
+
+
+#second{
+    margin: 0em 0em 0em 3em;
+    padding: 1em 0em 1em 0em
+ 
+}
+
+#third{
+    margin: 0em 0em 0em 3em;
+    padding: 1em 0em 1em 0em
+}
+
+#fourth{
+    margin: 0em 0em 0em 3em;
+    padding: 1em 0em 1em 0em
+}
+
+#one {
+    background-color: lightgray;
+    width: 8%;
+    padding: 1em 1em 1em 1em;
+    margin: -1em 0em 0em -2em;
+}
+
+
+#two {
+    background-color: lightgray;
+    width: 8%;
+    padding: 1em 1em 1em 1em;
+    margin: -1em 0em 0em 0em;
+}
+#three {
+    background-color: lightgray;
+    width: 8%;
+    padding: 1em 1em 1em 1em;
+    margin: -1em 0em 0em 0em;
+}
+#pluse {
+    background-color: lightgreen;
+    width: 8%;
+    padding: 1em 1em 1em 1em;
+    margin: -1em 0em 0em 0em;
+}
+    
+
+#four{
+    background-color: lightgray;
+    width: 8%;
+    padding: 1em 1em 1em 1em;
+    margin: -1em 0em 0em -2em;
+}
+
+#five{
+    background-color: lightgray;
+    width: 8%;
+    padding: 1em 1em 1em 1em;
+    margin: -1em 0em 0em 0em;
+}
+   
+#six{
+    background-color: lightgray;
+    width: 8%;
+    padding: 1em 1em 1em 1em;
+    margin: -1em 0em 0em 0em;
+}
+#sub{
+    background-color: lightgreen;
+    width: 8%;
+    padding: 1em 1em 1em 1em;
+    margin: -1em 0em 0em 0em;
+}
+#seven{ 
+    background-color: lightgray;
+    width: 8%;
+    padding: 1em 1em 1em 1em;
+    margin: -1em 0em 0em -2em;
+   
+}
+
+#eight{
+    background-color: lightgray;
+    width: 8%;
+    padding: 1em 1em 1em 1em;
+    margin: -1em 0em 0em 0em;
+}
+
+#nine{
+     background-color: lightgray;
+    width: 8%;
+    padding: 1em 1em 1em 1em;
+    margin: -1em 0em 0em 0em;
+   
+}
+#mult{
+    background-color:lightgreen;
+    width: 8%;
+    padding: 1em 1em 1em 1em;
+    margin: -1em 0em 0em 0em;
+}
+    
+
+#clear{
+    background-color: lightcoral;
+    width: 8%;
+    padding: 1em 1em 1em 1em;
+    margin: -1em 0em 0em -2em;
+  
+}
+#zero{
+    background-color: lightgray;
+    width: 8%;
+    padding: 1em 1em 1em 1em;
+    margin: -1em 0em 0em 0em;
+   
+}
+#divi{
+    background-color: lightgreen;
+    width: 8%;
+    padding: 1em 1em 1em 1em;
+    margin: -1em 0em 0em 0em;
+   
+}
+#equal{
+    background-color: lightgray;
+    width: 8%;
+    padding: 1em 1em 1em 1em;
+    margin: -1em 0em 0em 0em;
+   
+  
+    
+}
+
